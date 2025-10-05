@@ -1,12 +1,12 @@
 <h1 align="center">Hey! 👋, I'm Tanishqa</h1>
 <h3 align="center">✨ A Passionate Web Developer & Computer Science Student from India ✨</h3>
 
-🎓 I'm a 3rd-year <b>B.Sc. Computer Science</b> student 
-🌱 I’m currently learning **NodeJS, Full Stack Web Development & Java DSA**  
+🎓 I'm a 3rd-year <b>B.Sc. Computer Science</b> student. 
+🌱 I’m currently learning **NodeJS, Full Stack Web Development & Java DSA**.  
 💡 I have built projects like **Todo App (JS + React)**, **Quiz App**, **Simon Says Game**, **Weather App(REACT)**, **Spotify Clone**, **Sidebar/navbar**, and many more. 
 🚀 I enjoy building creative projects and constantly improving my coding skills.
-🎯 My goal is to become a **skilled Full Stack Developer**, explore **AI**, and crack an **internship/job soon**
-💬 Ask me about **JavaScript, React, and Java DSA**  
+🎯 My goal is to become a **skilled Full Stack Developer**, explore **AI**, and crack an **internship/job soon**.
+💬 Ask me about **JavaScript, React, and Java DSA**.  
  Fun fact: I love coding, journaling, and coffee ☕  
 📫 Reach me at **tanishqasaini653@gmail.com**
 
