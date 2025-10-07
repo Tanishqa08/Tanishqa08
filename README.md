@@ -8,7 +8,7 @@
 🎯 My goal is to become a **skilled Full Stack Developer**, explore **AI**, and crack an **internship/job soon**.
 💬 Ask me about **JavaScript, React, and Java DSA**.  
  Fun fact: I love coding, journaling, and coffee ☕  
-📫 Reach me at <a href="mailto:tanishqasaini08@gmail.com">
+📫 Reach me at **tanishqasaini653@gmail.com**
 
 ---
 
