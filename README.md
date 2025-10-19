@@ -40,9 +40,7 @@
 ### 🤝 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanishqa-saini-670829277)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqasaini653@gmail.com)
-
-<a href="https://github.com/Tanishqa08"><img src="https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Tanishqa08-black?style=for-the-badge&logo=github)](https://github.com/Tanishqa08)
 
 ---
 
