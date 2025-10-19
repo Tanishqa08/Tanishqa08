@@ -33,7 +33,7 @@
 ---
 
 ### 🐍 GitHub Contribution Snake:
-![snake gif](https://github.com/Tanishqa08/Tanishqa08/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Tanishqa08/Tanishqa08/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
