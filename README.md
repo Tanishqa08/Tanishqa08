@@ -27,21 +27,25 @@
 ### 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
 ### 🎨 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,materialui" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
 </p>
 
 ### 🔧 Tools & Technologies
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
