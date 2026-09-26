@@ -17,31 +17,6 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-- JavaScript
-- Java
-- HTML
-- CSS
-
-**Frontend**
-- React
-- MUI
-
-**Backend**
-- Node.js
-- Express.js
-- EJS
-
-**Tools & Technologies**
-- Git
-- GitHub
-- REST APIs
-- LocalStorage
-- Vercel
-- VS Code
-
-  ## 🛠️ Tech Stack
-
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
@@ -80,7 +55,7 @@
 Software Development • Full-Stack Web Development • DSA • Modern Web Technologies
 
  
- Fun fact: I love coding, journaling, and coffee ☕  
+ I love coding, journaling, and coffee ☕  
 📫 Reach me at **tanishqasaini653@gmail.com**
 
 ---
