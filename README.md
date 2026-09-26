@@ -1,11 +1,13 @@
 <h1 align="center"> Hi, I'm Tanishqa 👋</h1>
 <h3 align="center">MCA Student | Software Development | Web Development</h3>
 
+
 🎓 I'm a Computer Science graduate and currently pursuing MCA at GL Bajaj Institute.
 
 🌱 I enjoy building web applications, solving problems with Java, and continuously improving my software development skills. 
 
 🎯 My goal is to become a ** Cloud Native AI Full Stack SDE**.
+
 
 ### 🚀 Currently Working On
 
@@ -14,6 +16,7 @@
 - Practicing DSA in Java
 - Building and improving full-stack web projects
 - Exploring modern technologies and AI-integrated applications
+  
 
 ### 🛠️ Tech Stack
 
@@ -39,6 +42,7 @@
 
 **Also:** REST APIs • LocalStorage • EJS
 
+
 ### 📌 Featured Projects
 
 - **TaskFlow – Smart Todo Manager**  
@@ -49,6 +53,7 @@
 
 - **Cartify – Smart Shopping Experience**  
   Web-based shopping application built using HTML, CSS, JavaScript, API handling and localStorage.
+  
 
 ### 🎯 Current Focus
   
@@ -60,7 +65,8 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 
 ---
 
-### 🛠️ Languages and Tools:
+
+### 🛠️ Languages and Tools
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -90,7 +96,7 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 
 ---
 
-### 🤝 Connect with Me:
+### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanishqa-saini-670829277)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqasaini653@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tanishqa08-black?style=for-the-badge&logo=github)](https://github.com/Tanishqa08)
