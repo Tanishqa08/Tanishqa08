@@ -79,8 +79,14 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 
 ---
 
-### 📈 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=Tanishqa08&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Tanishqa08&theme=tokyonight&hide_border=true&dates=0F172A&disable_animations=true"
+    height="190"
+  />
+</p>
 
 ---
 
