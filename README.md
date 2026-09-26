@@ -87,7 +87,7 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanishqa-saini-670829277)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqasaini653@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tanishqa08-black?style=for-the-badge&logo=github)](https://github.com/Tanishqa08)
-[![Leetcode](https://leetcode.com/u/tanishqa08)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanishqa08/)
 
 ---
 
