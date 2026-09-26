@@ -1,12 +1,59 @@
-<h1 align="center">Hey! 👋, I'm Tanishqa</h1>
-<h3 align="center">✨ A Passionate Web Developer & Computer Science Student from India ✨</h3>
+<h1 align="center">** Hi, I'm Tanishqa 👋**</h1>
+<h3 align="center">MCA Student | Software Development | Web Development</h3>
 
-🎓 <b>MCA</b> student. 
-🌱 I’m currently learning **NodeJS, Full Stack Web Development & Java DSA**.  
-💡 I have built projects like **Todo App (JS + React)**, **Quiz App**, **Simon Says Game**, **Weather App(REACT)**, **Spotify Clone**, **Sidebar/navbar**, and many more. 
-🚀 I enjoy building creative projects and constantly improving my coding skills.
-🎯 My goal is to become a **skilled Full Stack Developer**, explore **AI**.
-💬 Ask me about **JavaScript, React, and Java DSA**.  
+🎓 I'm a Computer Science graduate and currently pursuing MCA at GL Bajaj Institute.
+🌱 I enjoy building web applications, solving problems with Java, and continuously improving my software development skills.   
+🎯 My goal is to become a ** Cloud Native AI Full Stack SDE**.
+
+### 🚀 Currently Working On
+
+- Strengthening JavaScript and React
+- Learning Backend Development & Databases 
+- Practicing DSA in Java
+- Building and improving full-stack web projects
+- Exploring modern technologies and AI-integrated applications
+
+  ### 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- Java
+- HTML
+- CSS
+
+**Frontend**
+- React
+- MUI
+
+  **Backend**
+- Node.js
+- Express.js
+- EJS
+
+**Tools & Technologies**
+- Git
+- GitHub
+- REST APIs
+- LocalStorage
+- Vercel
+- VS Code
+
+  ### 📌 Featured Projects
+
+- **TaskFlow – Smart Todo Manager**  
+  React-based task management application with localStorage, task filtering, progress tracking, MUI and responsive UI.
+
+- **Weather App**  
+  React weather application using API integration and dynamic data rendering.
+
+- **Cartify – Smart Shopping Experience**  
+  Web-based shopping application built using HTML, CSS, JavaScript, API handling and localStorage.
+
+  ### 🎯 Current Focus
+  
+Software Development • Full-Stack Web Development • DSA • Modern Web Technologies
+
+ 
  Fun fact: I love coding, journaling, and coffee ☕  
 📫 Reach me at **tanishqasaini653@gmail.com**
 
