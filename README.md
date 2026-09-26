@@ -2,12 +2,13 @@
 
 <h3 align="center">MCA Student | Software Development | Web Development</h3>
 
+
 ---
 
 
-🎓 <h3> I'm a Computer Science graduate and currently pursuing MCA at GL Bajaj Institute.</h3>
+🎓 I'm a Computer Science graduate and currently pursuing MCA at GL Bajaj Institute.
 
-🌱<h4> I enjoy building web applications, solving problems with Java, and continuously improving my software development skills.</h4>
+🌱 I enjoy building web applications, solving problems with Java, and continuously improving my software development skills.
 
 🎯 My goal is to become a Cloud Native AI Full Stack SDE.
 
