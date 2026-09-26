@@ -47,7 +47,7 @@
 ### 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,terminal" />
 </p>
 
 **Also:** REST APIs • LocalStorage • EJS
