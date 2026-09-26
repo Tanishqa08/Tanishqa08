@@ -1,13 +1,16 @@
 <h1 align="center"> Hi, I'm Tanishqa 👋</h1>
 <h3 align="center">MCA Student | Software Development | Web Development</h3>
 
+---
 
-🎓 I'm a Computer Science graduate and currently pursuing MCA at GL Bajaj Institute.
+
+🎓 <h3 I'm a Computer Science graduate and currently pursuing MCA at GL Bajaj Institute. </h3>
 
 🌱 I enjoy building web applications, solving problems with Java, and continuously improving my software development skills. 
 
 🎯 My goal is to become a ** Cloud Native AI Full Stack SDE**.
 
+---
 
 ### 🚀 Currently Working On
 
@@ -16,7 +19,8 @@
 - Practicing DSA in Java
 - Building and improving full-stack web projects
 - Exploring modern technologies and AI-integrated applications
-  
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -42,6 +46,7 @@
 
 **Also:** REST APIs • LocalStorage • EJS
 
+---
 
 ### 📌 Featured Projects
 
@@ -54,6 +59,7 @@
 - **Cartify – Smart Shopping Experience**  
   Web-based shopping application built using HTML, CSS, JavaScript, API handling and localStorage.
   
+---
 
 ### 🎯 Current Focus
   
@@ -64,7 +70,6 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 📫 Reach me at **tanishqasaini653@gmail.com**
 
 ---
-
 
 ### 🛠️ Languages and Tools
 
