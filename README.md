@@ -96,6 +96,7 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![Terminal](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![EJS](https://skillicons.dev/icons?i=ejs)](https://ejs.co/)
 
 ---
 
