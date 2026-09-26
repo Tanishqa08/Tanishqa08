@@ -31,10 +31,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
-### 💻 Languages
-
-**Java** <img src="https://skillicons.dev/icons?i=java" width="40" /> &nbsp;
-**JavaScript** <img src="https://skillicons.dev/icons?i=javascript" width="40" />
 
 ### 🎨 Frontend
 
