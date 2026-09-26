@@ -79,10 +79,6 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 
 ---
 
-### 🐍 GitHub Contribution Snake:
-<img src="https://github.com/Tanishqa08/Tanishqa08/blob/output/github-contribution-grid-snake.svg" />
-
----
 
 ### 🤝 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanishqa-saini-670829277)
