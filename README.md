@@ -93,6 +93,9 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Terminal](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
 ---
 
