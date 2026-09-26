@@ -1,4 +1,4 @@
-<h1 align="center">** Hi, I'm Tanishqa 👋**</h1>
+<h1 align="center"> Hi, I'm Tanishqa 👋</h1>
 <h3 align="center">MCA Student | Software Development | Web Development</h3>
 
 🎓 I'm a Computer Science graduate and currently pursuing MCA at GL Bajaj Institute.
