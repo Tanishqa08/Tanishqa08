@@ -13,7 +13,7 @@
 - Building and improving full-stack web projects
 - Exploring modern technologies and AI-integrated applications
 
-  ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 - JavaScript
@@ -38,7 +38,7 @@
 - Vercel
 - VS Code
 
-  ### 📌 Featured Projects
+### 📌 Featured Projects
 
 - **TaskFlow – Smart Todo Manager**  
   React-based task management application with localStorage, task filtering, progress tracking, MUI and responsive UI.
@@ -49,7 +49,7 @@
 - **Cartify – Smart Shopping Experience**  
   Web-based shopping application built using HTML, CSS, JavaScript, API handling and localStorage.
 
-  ### 🎯 Current Focus
+### 🎯 Current Focus
   
 Software Development • Full-Stack Web Development • DSA • Modern Web Technologies
 
