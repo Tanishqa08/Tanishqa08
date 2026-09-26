@@ -35,19 +35,19 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,materialui,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,ejs" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,bash" />
 </p>
 
 **Also:** REST APIs • LocalStorage • EJS
