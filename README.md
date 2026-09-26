@@ -2,7 +2,9 @@
 <h3 align="center">MCA Student | Software Development | Web Development</h3>
 
 🎓 I'm a Computer Science graduate and currently pursuing MCA at GL Bajaj Institute.
-🌱 I enjoy building web applications, solving problems with Java, and continuously improving my software development skills.   
+
+🌱 I enjoy building web applications, solving problems with Java, and continuously improving my software development skills. 
+
 🎯 My goal is to become a ** Cloud Native AI Full Stack SDE**.
 
 ### 🚀 Currently Working On
@@ -25,7 +27,7 @@
 - React
 - MUI
 
-  **Backend**
+**Backend**
 - Node.js
 - Express.js
 - EJS
@@ -37,6 +39,30 @@
 - LocalStorage
 - Vercel
 - VS Code
+
+  ## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,materialui" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+</p>
+
+### 🔧 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+**Also:** REST APIs • LocalStorage • EJS
 
 ### 📌 Featured Projects
 
