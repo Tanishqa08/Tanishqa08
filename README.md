@@ -73,12 +73,9 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 ---
 
 ### 📈 GitHub Stats:
-![Tanishqa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishqa08&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tanishqa08&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishqa08&layout=compact&theme=radical)
 
 ---
-
 
 ### 🤝 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanishqa-saini-670829277)
