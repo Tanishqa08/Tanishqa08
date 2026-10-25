@@ -117,7 +117,7 @@ Software Development • Full-Stack Web Development • DSA • Modern Web Techn
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqasaini653@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tanishqa08-black?style=for-the-badge&logo=github)](https://github.com/Tanishqa08)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanishqa08/)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Tanishqa_08)
 ---
 
 ⭐ **"Code. Learn. Build. Repeat."**
